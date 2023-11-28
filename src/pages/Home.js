@@ -3,7 +3,6 @@ import { useAuth } from 'hooks/useAuth';
 import {
   TaglineText,
   PageTitle,
-  DescPageHomeText,
 } from '../components/General/HomePage.styled';
 
 export default function Home() {
